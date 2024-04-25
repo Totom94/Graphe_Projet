@@ -1,18 +1,18 @@
 # Graphe_Projet
 Description
 
-Graphe d'ordonnancement en langage Python.
-Fonctionnalités
-Lecture de Tableaux de Contraintes
-Construction de Graphes (affichage de la matrice de valeurs)
-Vérification de Graphes (détection de circuits et d'arcs négatifs)
-Rangs de tous les sommets du graphe
-Calendrier au plus tôt, au plus tard
-Marges -> n'affiche uniquement que les tâches avec une marge de 0. A corriger
-Chemins critiques
+## Graphe d'ordonnancement en langage Python.
+- Fonctionnalités
+- Lecture de Tableaux de Contraintes
+- Construction de Graphes (affichage de la matrice de valeurs)
+- Vérification de Graphes (détection de circuits et d'arcs négatifs)
+- Rangs de tous les sommets du graphe
+- Calendrier au plus tôt, au plus tard
+- Marges -> n'affiche uniquement que les tâches avec une marge de 0. A corriger
+- Chemins critiques
 
 
-Installation et lancement
+## Installation et lancement
 
 Pour installer les dépendances nécessaires pour ce projet, exécutez la commande suivante dans votre terminal :
 
