@@ -1,5 +1,4 @@
 # Graphe_Projet
-Description
 
 ## Graphe d'ordonnancement en langage Python.
 - Fonctionnalités
